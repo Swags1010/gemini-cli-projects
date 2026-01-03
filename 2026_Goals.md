@@ -1,90 +1,113 @@
-# 2026 Resolutions & Goals for Nick Wagner
+# 2026 Goals for Nick Wagner
 
-This document outlines your professional, financial, personal, and health goals for 2026. It is designed to be a living document that you can adapt throughout the year.
+This document outlines your professional, financial, personal, and health goals for 2026. It is a living document, grounded in your values and designed to be adapted as you make progress.
 
 ---
 
-## 1. Career: Master the Full Sales Cycle
+## 1. Career: Achieve Top Performer Status
 
-Given your transition from a technical pre-sales and product background to a quota-carrying Account Manager, your primary career goal for 2026 is to master the full-cycle sales process, laying the foundation for a leadership path in SaaS.
+Your primary career goal is to master the full-cycle sales process at Amtech, establishing yourself as a top performer and leader.
+
+*   **Key Result:** Earn a **$300,000 W2** by significantly exceeding your sales quota.
+*   **Annual Quota:** $550,000 in Annual Recurring Revenue (ARR) and $375,000 in Professional Services (PS).
+*   **Target:** Achieve **277%** of your ARR quota (~$1.52M) and 100% of your PS quota ($375k).
 
 ### Quarterly Objectives:
 
 *   **Q1: Foundation & Territory Mastery**
-    *   **Goal:** Successfully onboard at Amtech and establish a strategic plan for your territory.
-    *   **Action:** Apply the "Fruitful Territory Framework" to tier all 200-250 of your accounts.
-    *   **Action:** Begin outreach to your "Priority 1" accounts and book your first 5 meetings using the "Buyer Approved Discovery Blueprint".
+    *   **Goal:** Successfully onboard and establish a strategic territory plan.
+    *   **Action:** Apply the "Fruitful Territory Framework" to tier all accounts.
+    *   **Action:** Book 5 meetings using the "Buyer Approved Discovery Blueprint."
     *   **Result:** Earn back your $6,000 Q1 draw.
 
 *   **Q2: Mastering Discovery & Pipeline Generation**
-    *   **Goal:** Become an expert at leading discovery conversations that uncover real business pain.
-    *   **Action:** Conduct 20 discovery calls strictly following the "Buyer Approved Discovery Blueprint."
+    *   **Goal:** Become an expert at leading discovery conversations that uncover true business pain.
     *   **Action:** Build a pipeline that is 3x your quarterly quota.
+    *   **Action:** Refine your demo skills using the `Underground_SaaS_Demo_Scripts`.
 
 *   **Q3: Excelling at Negotiation & Closing**
-    *   **Goal:** Develop confidence and skill in negotiation and closing deals.
-    *   **Action:** Use the frameworks in your "Negotiation Toolkit" for at least two deals.
-    *   **Action:** Achieve 110% of your Q3 quota.
+    *   **Goal:** Develop confidence and skill in negotiation and closing.
+    *   **Action:** Use the "Negotiation Toolkit" for at least two deals.
+    *   **Action:** Achieve 125% of your Q3 quota.
 
-*   **Q4: Strategic Account Growth**
-    *   **Goal:** Transition from transactional wins to strategic, long-term account partnerships.
-    *   **Action:** Create and execute 5 strategic account plans for your top customers, using your account mapping and mutual action plan templates.
-    *   **Action:** Mentor a new team member or sales engineer on your discovery process.
-
----
-
-## 2. Financial: Achieve Financial Clarity & Security
-
-Your goal is to build a strong financial foundation by systematically addressing debt, boosting savings, and investing in your daughter's future.
-
-### Key Objectives:
-
-*   **Pay Off Debt:**
-    *   **Goal:** Systematically reduce and pay off high-interest debt.
-    *   **Action in Q1:** Use your **Finance Agent** to analyze your Monarch Money transaction data. Identify the top 3 non-essential spending categories and create a plan to reduce them by 20%.
-    *   **Action:** Apply all commission earnings above your base salary directly to your highest-interest debt first.
-
-*   **Boost Savings:**
-    *   **Goal:** Build a robust emergency fund and increase your overall savings rate.
-    *   **Action in Q1:** Set up an automatic transfer of a specific amount from every paycheck into a high-yield savings account.
-    *   **Action:** By EOY, have at least 3 months of living expenses in your emergency fund.
-
-*   **Start a 529 for Your Daughter:**
-    *   **Goal:** Open and begin funding a 529 college savings plan.
-    *   **Action in Q1:** Research your state's 529 plan to understand its tax advantages and investment options.
-    *   **Action by Q2:** Open the account and set up a recurring monthly contribution.
+*   **Q4: Strategic Account Growth & Leadership**
+    *   **Goal:** Transition from transactional wins to strategic partnerships.
+    *   **Action:** Create and execute 5 strategic account plans for top customers.
+    *   **Action:** Mentor a new team member on your discovery process.
 
 ---
 
-## 3. Personal Growth: Cultivate Presence
+## 2. Financial: Build Generational Wealth
 
-Your goal is to be more present in your daily life, reducing distractions and deepening your connection with your family. This is a direct application of the wisdom from your collected texts.
+Your goal is to translate your high-income potential into lasting financial security and freedom for your family.
 
 ### Key Objectives:
 
-*   **Practice Scheduled Solitude:**
+*   **Aggressively Save & Invest:**
+    *   **Goal:** Save or invest at least 30% of your gross annual income.
+    *   **Action:** Max out your 401k contributions.
+    *   **Action:** Automatically invest a significant portion of every commission check into a low-cost index fund.
+
+*   **Secure Your Daughter's Future:**
+    *   **Goal:** Begin building a strong educational foundation for Charlotte.
+    *   **Action:** Open a 529 college savings plan in Q1 and establish a recurring monthly contribution of at least $500.
+
+*   **Eliminate High-Interest Debt:**
+    *   **Goal:** Become completely free of non-mortgage debt.
+    *   **Action:** Use the "avalanche" method, applying all extra income to the debt with the highest interest rate first.
+
+---
+
+## 3. Health & Wellness: Optimize Mind & Body
+
+Your goal is to build a sustainable system for physical and mental vitality, using science-backed protocols to enhance your energy and focus.
+
+### Key Objectives:
+
+*   **Execute a Consistent Fitness Routine:**
+    *   **Goal:** Complete 3-4 workouts per week, integrating strength and cardio.
+    *   **Action:** Follow the **Workout A/B schedule** in `wellness/Workout_Plan.md`, using your home gym equipment as specified.
+    *   **Action:** Complete two 25-minute interval runs on the treadmill each week.
+
+*   **Implement Huberman Protocols:**
+    *   **Goal:** Align your daily habits with your biology.
+    *   **Action (Morning):** Get 10-15 minutes of direct morning sunlight within 60 minutes of waking. Delay caffeine intake for 90-120 minutes.
+    *   **Action (Evening):** Dim lights after sunset. Aim for a consistent sleep schedule, even on weekends.
+
+*   **Post-Workout Recovery:**
+    *   **Goal:** Improve recovery and bond with your dog, Goose.
+    *   **Action:** Take a 15-minute cool-down walk with Goose after every workout.
+
+---
+
+## 4. Personal Growth: Intentional Learning & Presence
+
+Your goal is to cultivate a sharp, focused mind and be deeply present in your life, applying the wisdom from your collected texts.
+
+### Key Objectives:
+
+*   **Become a Learning Machine:**
+    *   **Goal:** Systematically improve your ability to learn and remember.
+    *   **Action:** Dedicate one 30-minute session per week to studying and applying a concept from your "new docs" (`10 Mental Models`, `Complete Guide to Memory`, etc.).
+
+*   **Practice Scheduled Solitude & Presence:**
     *   **Goal:** Create time for clear thinking and reduce reactive behavior.
-    *   **Action:** Drawing from Naval Ravikant's wisdom, schedule two 30-minute "thinking walks" per week without your phone. Use this time to reflect on a question or simply observe your surroundings.
-
-*   **Implement "Device-Free" Family Time:**
-    *   **Goal:** Create a space for genuine connection with your family.
-    *   **Action:** Institute a "no devices at the dinner table" rule.
-    *   **Action:** Schedule one "unplugged" hour every weekend dedicated to a family activity (e.g., a walk, reading books, playing).
+    *   **Action:** Schedule two 30-minute "thinking walks" per week without your phone, inspired by Naval Ravikant.
 
 ---
 
-## 4. Health & Wellness: Consistent At-Home Fitness
+## 5. Family: Nurture Your Core Relationships
 
-Your goal is to integrate consistent, effective workouts into your life, leveraging your home gym equipment and work-from-home flexibility.
+Your primary goal is to be a present, engaged, and loving husband and father.
 
 ### Key Objectives:
 
-*   **Establish a Sustainable Routine:**
-    *   **Goal:** Complete three workouts per week.
-    *   **Action:** Schedule these workouts in your calendar as non-negotiable appointments. Given your equipment and the new baby, aim for 20-30 minute high-intensity sessions.
+*   **Be a Present Partner to Sami:**
+    *   **Goal:** Deepen your connection and partnership.
+    *   **Action:** Institute a "no devices at the dinner table" rule to ensure focused time together.
+    *   **Action:** Plan a dedicated date night once a month.
 
-*   **Leverage Your Home Gym:**
-    *   **Goal:** Use the equipment you have to build functional strength.
-    *   **Action:** Ask your **Wellness Agent** to create a 4-week workout plan for you.
-        *   *Example Prompt:* "Give me a 3-day-per-week workout plan using my treadmill, pull-up bar, and kettlebells. The workouts should be 30 minutes or less."
-    *   **Action:** Track your workouts to ensure consistency and progressive overload.
+*   **Be an Engaged Father to Charlotte:**
+    *   **Goal:** Be fully present for the precious moments of her first year.
+    *   **Action:** Schedule one "unplugged" hour every weekend dedicated to family time.
+    *   **Action:** Read to Charlotte every night before bed.

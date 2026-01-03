@@ -14,35 +14,35 @@ Alternate the following workouts throughout the week. Aim for 3-4 sessions per w
 
 ### **Workout A: Full Body Strength**
 
-**Equipment:** Kettlebell(s), Pull-up Bar
+**Equipment:** 55 lb Kettlebell, 35 lb Kettlebell, Pull-up Bar, Weighted Vest
 
 Complete as many rounds as possible (AMRAP) in 20 minutes, followed by a 5-minute cool-down.
 
 1.  **Kettlebell Goblet Squats:** 10 reps
-    *   (Hold one kettlebell close to your chest. Keep your back straight and chest up as you squat down until your elbows are near your knees.)
-2.  **Pull-ups (or Assisted Pull-ups/Bodyweight Rows):** 5 reps
-    *   (If you can't do 5 full pull-ups, use a band for assistance or do inverted rows.)
+    *   **Use your 55 lb kettlebell.** Hold it close to your chest. Keep your back straight and chest up as you squat.
+2.  **Pull-ups:** 5 reps
+    *   **For an extra challenge, wear your weighted vest.** If 5 reps are too difficult, do them without the vest, or do assisted pull-ups.
 3.  **Kettlebell Swings:** 15 reps
-    *   (Focus on a powerful hip hinge. The power comes from your hips, not your arms.)
+    *   **Use a 35 lb kettlebell.** Focus on a powerful hip hinge; the power comes from your hips, not your arms.
 4.  **Push-ups:** 10 reps
-    *   (Keep your core tight and your body in a straight line.)
+    *   **Wear your weighted vest to increase the difficulty.** Keep your core tight and your body in a straight line.
 
 ---
 
 ### **Workout B: Full Body Power**
 
-**Equipment:** Kettlebell(s)
+**Equipment:** 35 lb Kettlebells, Weighted Vest
 
 Complete as many rounds as possible (AMRAP) in 20 minutes, followed by a 5-minute cool-down.
 
-1.  **Kettlebell Single-Arm Overhead Press (each side):** 8 reps per side
-    *   (Start with the kettlebell in the "rack" position at your shoulder. Press it straight overhead, keeping your core tight.)
+1.  **Kettlebell Single-Arm Overhead Press:** 8 reps per side
+    *   **Use a 35 lb kettlebell.** Start with it in the "rack" position at your shoulder and press straight overhead.
 2.  **Kettlebell Lunges:** 8 reps per leg
-    *   (You can hold the kettlebell in the goblet position or a single one on the same side as your back leg.)
+    *   **Hold a 35 lb kettlebell in each hand.** This will challenge your balance and core.
 3.  **Kettlebell Deadlifts:** 10 reps
-    *   (Use your heaviest kettlebell for this. Focus on a flat back and hinging at your hips.)
+    *   **Hold both 35 lb kettlebells (one in each hand) for a total of 70 lbs.** Focus on a flat back and hinging at your hips.
 4.  **Plank:** 30-second hold
-    *   (Maintain a straight line from your head to your heels.)
+    *   **For a greater challenge, have your wife, Sami, carefully place the weighted vest on your back once you're in position.**
 
 ---
 
